@@ -48,6 +48,8 @@ public static void main(String[] args) {
 
     bmi.bmiConvertor(weight, height);
 
+    sc.close();
+
 }
 }
 

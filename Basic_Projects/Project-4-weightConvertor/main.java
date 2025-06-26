@@ -48,6 +48,12 @@ public class main {
             inKGs = false;
             c.weightConvertor(weight,inKGs);
         }
+        else
+        {
+            System.out.println("Enter valid option");
+        }
+
+        sc.close();
         
     }  
 

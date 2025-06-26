@@ -84,6 +84,8 @@ public class main
                 break;
         }
 
+        sc.close();
+
     }
 
 }
