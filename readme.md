@@ -11,11 +11,11 @@ This collection of mini-projects is designed to help you build and strengthen yo
 
 | #   | Project Name | Description |
 |-----|--------------|-------------|
-| 1️⃣ | [Project-1-CALCULATOR](./basic_projects/Project-1-CALCULATOR) | A simple command-line calculator that performs basic arithmetic operations. |
-| 2️⃣ | [Project-2-BMI_Calculator](./basic_projects/Project-2-BMI_Calculator) | Calculates the Body Mass Index based on user-provided height and weight. |
-| 3️⃣ | [Project-3-mathClass](./basic_projects/Project-3-mathClass) | Demonstrates usage of Java’s built-in `Math` class methods with examples. |
-| 4️⃣ | [Project-4-weightConvertor](./basic_projects/Project-4-weightConvertor) | Converts weight between kilograms and pounds interactively. |
-| 5️⃣ | [Project-5-emailChecker](./basic_projects/Project-5-emailChecker) | Checks if a given email string follows standard format rules. |
+| 1️⃣ | [Project-1-CALCULATOR](./Basic_Projects/Project-1-CALCULATOR) | A simple command-line calculator that performs basic arithmetic operations. |
+| 2️⃣ | [Project-2-BMI_Calculator](./Basic_Projects/Project-2-BMI_Calculator) | Calculates the Body Mass Index based on user-provided height and weight. |
+| 3️⃣ | [Project-3-mathClass](./Basic_Projects/Project-3-mathClass) | Demonstrates usage of Java’s built-in `Math` class methods with examples. |
+| 4️⃣ | [Project-4-weightConvertor](./Basic_Projects/Project-4-weightConvertor) | Converts weight between kilograms and pounds interactively. |
+| 5️⃣ | [Project-5-emailChecker](./Basic_Projects/Project-5-emailChecker) | Checks if a given email string follows standard format rules. |
 
 ---
 
