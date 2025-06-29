@@ -16,6 +16,7 @@ This collection of mini-projects is designed to help you build and strengthen yo
 | 3️⃣ | [Project-3-mathClass](./Basic_Projects/Project-3-mathClass) | Demonstrates usage of Java’s built-in `Math` class methods with examples. |
 | 4️⃣ | [Project-4-weightConvertor](./Basic_Projects/Project-4-weightConvertor) | Converts weight between kilograms and pounds interactively. |
 | 5️⃣ | [Project-5-emailChecker](./Basic_Projects/Project-5-emailChecker) | Checks if a given email string follows standard format rules. |
+| 6️⃣ | [Project-6-temperatureConverter](./Basic_Projects/Project-6-temperatureConverter) | Converts temperatures between Celsius, Fahrenheit, and Kelvin interactively. |
 
 ---
 
